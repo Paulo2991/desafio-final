@@ -136,10 +136,6 @@ Renderização Condicional
 - [ ] A aplicação deve utilizar lógica de renderização condicional para exibir mensagens de carregamento durante a requisição e mensagens de erro em caso de falha na requisição.
 Manipulação de Eventos
 
-- [ ] Deve ser implementada a funcionalidade de permitir ao usuário buscar novamente as ofertas manualmente através de um botão.
-O botão deve ter um evento onClick para realizar essa ação.
-Estilização com CSS
-
 - [ ] Utilizar arquivos CSS para estilizar os componentes e melhorar a apresentação visual das ofertas na página.
 A estilização deve seguir boas práticas de design e tornar a experiência do usuário mais agradável.
 
